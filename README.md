@@ -13,3 +13,5 @@ sudo curl -o lapmInstaller.sh https://raw.githubusercontent.com/NamuTree0345/lap
 ```
 sudo curl -o lapmInstaller.sh https://raw.githubusercontent.com/NamuTree0345/lapm/master/lapm_remove.sh && sudo chmod +x ./lapmInstaller.sh && sudo chmod +w ./lapmInstaller.sh && sudo ./lapmInstaller.sh
 ```
+## finish install
+please enter `sudo rm lapmInstaller.sh`
