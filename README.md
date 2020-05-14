@@ -9,9 +9,13 @@ sudo curl -o lapmInstaller.sh https://raw.githubusercontent.com/NamuTree0345/lap
 ```
 sudo curl -o lapmInstaller.sh https://raw.githubusercontent.com/NamuTree0345/lapm/master/lapm_update.sh && sudo chmod +x ./lapmInstaller.sh && sudo chmod +w ./lapmInstaller.sh && sudo ./lapmInstaller.sh
 ```
+### only apt update
+```
+sudo curl -o lapmInstaller.sh https://raw.githubusercontent.com/NamuTree0345/lapm/master/lapm_only_update.sh && sudo chmod +x ./lapmInstaller.sh && sudo chmod +w ./lapmInstaller.sh && sudo ./lapmInstaller.sh
+```
 ## Remove
 ```
 sudo curl -o lapmInstaller.sh https://raw.githubusercontent.com/NamuTree0345/lapm/master/lapm_remove.sh && sudo chmod +x ./lapmInstaller.sh && sudo chmod +w ./lapmInstaller.sh && sudo ./lapmInstaller.sh
 ```
-## finish install
+## finish install or delete
 please enter `sudo rm lapmInstaller.sh`
