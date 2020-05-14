@@ -1,5 +1,5 @@
 # lapm
-Linux Apache PHP MariaDB Installer. (https://bugwhale.tistory.com/entry/raspberrypi-raspbian-apm-install)\
+Linux Apache PHP MariaDB Installer for Debian. (https://bugwhale.tistory.com/entry/raspberrypi-raspbian-apm-install)\
 \
 ## APT Not Update
 ```
